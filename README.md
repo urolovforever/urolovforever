@@ -118,22 +118,6 @@ const urolovforever = {
   </picture>
 </div>
 
-<details>
-<summary>🔧 How to enable snake animation (click to expand)</summary>
-
-The snake will appear once you:
-1. **Merge this branch to main/master**
-2. **OR manually trigger the workflow:**
-   - Go to your repository's **Actions** tab
-   - Click "Generate Snake Animation" on the left
-   - Click "Run workflow" button (top right)
-   - Select your branch and click "Run workflow"
-3. Wait ~1 minute for it to complete
-4. The snake will update automatically every 12 hours!
-
-**Note:** If you see a 404 error for the snake, the workflow hasn't run yet. Follow the steps above to generate it.
-</details>
-
 ---
 
 ## 💡 Random Dev Quote
