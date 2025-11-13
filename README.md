@@ -175,13 +175,44 @@ The snake will appear once you:
 
 ---
 
-## 🎵 Spotify Playing
+## 🎵 Spotify & Music
 
 <div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fddibvjwdlag27r46jtb7kijh4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31fddibvjwdlag27r46jtb7kijh4)
+
+**🎧 Click above to check out my Spotify playlists! 🎧**
+
 </div>
 
-> 🎵 **Note:** Currently playing track will appear here when you're listening to Spotify!
+<details>
+<summary>🎵 How to set up Spotify Now Playing (click to expand)</summary>
+
+### **Setup Instructions:**
+
+If you're seeing "Non-Image content-type returned", you need to authenticate first:
+
+1. **Visit the setup page:** https://spotify-github-profile.kittinanx.com/
+2. **Click "Login with Spotify"** and authorize the application
+3. **Customize your widget** (choose theme, cover image, etc.)
+4. **Copy the generated markdown** code
+5. **Replace the current Spotify section** in this README with your custom code
+
+### **Alternative Option - Spotify Recently Played:**
+
+If the above doesn't work, you can use this simpler alternative that shows your recently played tracks:
+
+```markdown
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31fddibvjwdlag27r46jtb7kijh4)](https://open.spotify.com/user/31fddibvjwdlag27r46jtb7kijh4)
+```
+
+### **How to get your Spotify User ID:**
+1. Go to https://open.spotify.com/
+2. Click on your profile → Share → Copy link to profile
+3. Your UID is the part after `/user/` and before `?si=`
+4. Example: `open.spotify.com/user/YOUR_UID_HERE?si=...`
+
+</details>
 
 ---
 
