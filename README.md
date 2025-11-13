@@ -112,13 +112,27 @@ const urolovforever = {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/urolovforever/urolovforever/blob/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/urolovforever/urolovforever/blob/output/github-snake.svg" />
-    <img alt="github-snake" src="https://github.com/urolovforever/urolovforever/blob/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/urolovforever/urolovforever/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/urolovforever/urolovforever/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/urolovforever/urolovforever/output/github-snake-dark.svg" />
   </picture>
 </div>
 
-> 💡 **Note:** The snake animation will appear after the first GitHub Actions workflow run. It updates every 12 hours automatically!
+<details>
+<summary>🔧 How to enable snake animation (click to expand)</summary>
+
+The snake will appear once you:
+1. **Merge this branch to main/master**
+2. **OR manually trigger the workflow:**
+   - Go to your repository's **Actions** tab
+   - Click "Generate Snake Animation" on the left
+   - Click "Run workflow" button (top right)
+   - Select your branch and click "Run workflow"
+3. Wait ~1 minute for it to complete
+4. The snake will update automatically every 12 hours!
+
+**Note:** If you see a 404 error for the snake, the workflow hasn't run yet. Follow the steps above to generate it.
+</details>
 
 ---
 
@@ -164,8 +178,10 @@ const urolovforever = {
 ## 🎵 Spotify Playing
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31fddibvjwdlag27r46jtb7kijh4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fddibvjwdlag27r46jtb7kijh4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
 </div>
+
+> 🎵 **Note:** Currently playing track will appear here when you're listening to Spotify!
 
 ---
 

@@ -8,6 +8,7 @@ on:
     branches:
       - main
       - master
+      - claude/improve-github-profile-011CV6Anpk8wxkoGsNeNsqxD
 
 jobs:
   generate:
