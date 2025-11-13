@@ -1,19 +1,40 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=UROLOVFOREVER&fontSize=70&color=0:8871e8,50:b678f0,100:c77ff2&stroke=b678f0&animation=twinkling&fontAlign=50&fontAlignY=40" />
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6CE5F7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+urolovforever+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!;Let's+build+something+amazing+together!" alt="Typing SVG" />
-</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=940&lines=%E2%9A%A1+Coding+Wizard+%7C+Tech+Enthusiast+%E2%9A%A1;%F0%9F%92%BB+Full+Stack+Developer+%F0%9F%92%BB;%F0%9F%94%A5+Building+The+Future+One+Commit+at+a+Time+%F0%9F%94%A5;%F0%9F%9A%80+Problem+Solver+%7C+Bug+Destroyer+%F0%9F%9A%80;%E2%9C%A8+Turning+Coffee+Into+Code+%E2%98%95%E2%9C%A8;%F0%9F%8E%AF+Making+Impossible+Look+Easy+%F0%9F%8E%AF" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,20,24,28&height=3&section=header" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=header&text=🔥+WELCOME+TO+THE+CODE+MATRIX+🔥&fontSize=30&fontAlign=50&fontAlignY=25&animation=twinkling" />
+</div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=urolovforever&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/urolovforever?label=Followers&style=social" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=urolovforever&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/urolovforever?label=Followers&style=for-the-badge&color=ff69b4" alt="followers" />
+  <img src="https://img.shields.io/badge/Focus-Building%20Amazing%20Things-orange?style=for-the-badge" alt="focus" />
 </p>
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,20,24,28&height=2&section=header" />
+</div>
 
 ---
 
 ## 🚀 About Me
+
+<div align="center">
+  <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+</div>
 
 ```typescript
 const urolovforever = {
@@ -26,6 +47,12 @@ const urolovforever = {
     funFact: "I debug with console.log() and I'm not ashamed! 😄"
 };
 ```
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 
 ---
 
@@ -47,16 +74,20 @@ const urolovforever = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=urolovforever&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=urolovforever&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=urolovforever&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=urolovforever&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=urolovforever&layout=compact&langs_count=8&theme=radical&hide_border=true&title_color=ff91a4&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=urolovforever&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6CE5F7&line=6CE5F7&point=FFFFFF" alt="Contribution Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=urolovforever&theme=radical&hide_border=true&background=0d1117&stroke=ff91a4&ring=ff91a4&fire=ff91a4&currStreakLabel=ff91a4" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=urolovforever&custom_title=Contribution%20Graph&bg_color=0d1117&color=ff91a4&line=ff91a4&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -77,11 +108,17 @@ const urolovforever = {
 
 ---
 
-## 🐍 Watch My Contributions Get Eaten!
+## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/urolovforever/urolovforever/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/urolovforever/urolovforever/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/urolovforever/urolovforever/blob/output/github-snake.svg" />
+    <img alt="github-snake" src="https://github.com/urolovforever/urolovforever/blob/output/github-snake.svg" />
+  </picture>
 </div>
+
+> 💡 **Note:** The snake animation will appear after the first GitHub Actions workflow run. It updates every 12 hours automatically!
 
 ---
 
@@ -130,15 +167,22 @@ const urolovforever = {
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=31fddibvjwdlag27r46jtb7kijh4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
 </div>
 
-
 ---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</div>
 
 <div align="center">
 
 ### 🌟 Show some ❤️ by starring some repositories!
 
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />
+**Thanks for visiting! Let's connect and build something amazing together!**
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />
+
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=See+You+Soon!&fontSize=40&fontAlign=50&fontAlignY=60&animation=twinkling" />
 </div>
