@@ -68,36 +68,6 @@ const urolovforever = {
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-</div>
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=urolovforever&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=urolovforever&layout=compact&langs_count=8&theme=radical&hide_border=true&title_color=ff91a4&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=urolovforever&theme=radical&hide_border=true&background=0d1117&stroke=ff91a4&ring=ff91a4&fire=ff91a4&currStreakLabel=ff91a4" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=urolovforever&custom_title=Contribution%20Graph&bg_color=0d1117&color=ff91a4&line=ff91a4&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=urolovforever&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
 ---
 
 ## 📈 Contribution Stats
@@ -106,20 +76,6 @@ const urolovforever = {
   <img src="https://github-contributor-stats.vercel.app/api?username=urolovforever&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Contribution Stats" />
 </div>
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/urolovforever/urolovforever/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/urolovforever/urolovforever/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/urolovforever/urolovforever/output/github-snake-dark.svg" />
-  </picture>
-</div>
-
----
-
 ## 💡 Random Dev Quote
 
 <div align="center">
@@ -127,45 +83,6 @@ const urolovforever = {
 </div>
 
 ---
-
-## 🎯 Current Goals for 2025
-
-- 🔭 Working on exciting open-source projects
-- 🌱 Learning new technologies and frameworks
-- 👯 Looking to collaborate on innovative projects
-- 💬 Ask me about anything tech-related
-- 📫 How to reach me: Check my profile for contact info
-- ⚡ Fun fact: Code never lies, comments sometimes do!
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/urolovforever"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/urolovforever"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://t.me/urolovforever"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="mailto:nizomjonurolov24@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
----
-
-## 💰 Support My Work
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/urolovforever"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" /></a>
-  <a href="https://ko-fi.com/urolovforever"><img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" /></a>
-</p>
-
----
-
-## 🎵 Spotify Now Playing
-
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fddibvjwdlag27r46jtb7kijh4&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fddibvjwdlag27r46jtb7kijh4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true" alt="Spotify Now Playing">
-  </a>
-</p>
 
 <div align="center">
 
