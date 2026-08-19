@@ -13,7 +13,7 @@ Graduation thesis: a document exchange platform for religious organizations with
 Production website of an international university association: 7-language i18n, student portal, exchange-program applications with two-stage review, quota management. Java Spring Boot, Thymeleaf, MariaDB, Liquibase, Docker.
 
 **SportTahlil — AI sports analysis** · [repo](https://github.com/urolovforever/sport-tahlil) · [live](https://sporttahlil.com)
-AI-assisted athletic performance analysis service. Python (Starlette), OpenAI API, Redis.
+AI-assisted athletic performance analysis service. Python (FastAPI), OpenAI API, Redis.
 
 **University Store** · [repo](https://github.com/urolovforever/store) · [live](https://urolovforever.github.io/store/)
 Static university merchandise storefront, deployed to GitHub Pages with GitHub Actions.
